@@ -1,3 +1,3 @@
 # TerminalGraphics
-# TerminalGraphics
-# TerminalGraphics
+
+Use on full screen
