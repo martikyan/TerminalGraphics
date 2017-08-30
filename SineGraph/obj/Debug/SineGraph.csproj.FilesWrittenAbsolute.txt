@@ -1,0 +1,5 @@
+/root/RiderProjects/SineGraph/SineGraph/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/root/RiderProjects/SineGraph/SineGraph/bin/Debug/SineGraph.pdb
+/root/RiderProjects/SineGraph/SineGraph/bin/Debug/SineGraph.exe
+/root/RiderProjects/SineGraph/SineGraph/obj/Debug/SineGraph.exe
+/root/RiderProjects/SineGraph/SineGraph/obj/Debug/SineGraph.pdb
